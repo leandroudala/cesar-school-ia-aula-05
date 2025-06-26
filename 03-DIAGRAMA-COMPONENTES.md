@@ -1,0 +1,1 @@
+Baseado no conteúdo do anexo PROTEC.pdf, crie um diagrama de componentes utilizando o formato PlantUML. Utilize a documentação da ferramenta para gerar o diagrama. Link para a documentação do PlantUML para criação de diagramas de componentes: https://plantuml.com/component-diagram.
